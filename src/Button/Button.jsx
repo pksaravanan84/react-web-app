@@ -5,7 +5,7 @@ function Button(){
     const style = {
         "backgroundColor": "hsl(2000, 100%, 50%)",
         "color": "white",
-        "borderRadius": "5px"
+        "borderRadius": "8px" 
     };
 
     let count = 0;
